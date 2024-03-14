@@ -1,6 +1,6 @@
 ### Hello There, I'm Sajina Dissanayake! 👋
 
-- 🔭 I’m currently building [eTechViral](https://etechviral.com).
+- 🔭 I’m currently building Clinic management system
 - 🌱 I’m currently learning AI Machine Learning...
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Ask me about Android, iOS, Flutter or any tech related Stuff.
