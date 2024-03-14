@@ -1,11 +1,10 @@
 ### Hello There, I'm Sajina Dissanayake! 👋
 
 - 🔭 I’m currently building Clinic management system
-- 🌱 I’m currently learning AI Machine Learning...
-- 👯 I’m looking to collaborate on Youtube.
-- 💬 Ask me about Android, iOS, Flutter or any tech related Stuff.
+- 🌱 I’m currently learning FullStack...
+- 💬 Ask me about Java, React,Python,C#,EJS, Node or any tech related Stuff.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: When i do code and while coding i sing song when i watch time so it is 6-AM then i tell my self that now i should sleep because its night.
+- ⚡ Fun fact: hahaha
 - 📫 How to reach me: Check social links below.
 
 
@@ -14,19 +13,19 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amirk3321&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirk3321&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sajinadissanayake&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajinadissanayake&theme=vue" />
 </p>
 
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirk3321&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajinadissanayake&theme=vue"/>
 </p>
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirk3321)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajinadissanayake)
 
 
 ## 💻 Tech Stack
