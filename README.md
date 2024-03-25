@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently building Clinic management system
 - 🌱 I’m currently learning FullStack...
-- 💬 Ask me about Java, React,Python,C#,EJS, Node or any tech related Stuff.
+- 💬 Ask me about Java, React,Python,C#,C,Node,EJS, Node or any tech related Stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: hahaha
 - 📫 How to reach me: Check social links below.
